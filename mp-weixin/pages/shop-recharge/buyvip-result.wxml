@@ -1,0 +1,1 @@
+<view class="content data-v-0b093f84"><view class="data-v-0b093f84"><view class="text-reset data-v-0b093f84">会员购买成功！</view><button type="primary" data-event-opts="{{[['tap',[['back',['$event']]]]]}}" bindtap="__e" class="data-v-0b093f84">返回</button></view></view>
